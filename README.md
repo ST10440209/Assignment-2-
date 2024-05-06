@@ -6,7 +6,8 @@ Players of all ages who appreciate lighthearted gaming, virtual pets, and casual
 
 ## GitHub Link
 
-(Link)
+https://github.com/ST10440209/imad-assignment-2-game/compare/master?expand=1
+
 
 ## Youtube Link
 
